@@ -5,3 +5,9 @@ Garan:
 	profile_name: "garanguillory"
 	password: "garantreebook"
 	password_confirmation: "garantreebook"
+
+jim:
+	first_name: "Jim"
+	last_name: "Hoskins"
+	email: "jim@teamtreehouse.com"
+	profile_name: "jimhoskins"
