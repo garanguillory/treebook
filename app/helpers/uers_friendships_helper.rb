@@ -1,0 +1,2 @@
+module UersFriendshipsHelper
+end
